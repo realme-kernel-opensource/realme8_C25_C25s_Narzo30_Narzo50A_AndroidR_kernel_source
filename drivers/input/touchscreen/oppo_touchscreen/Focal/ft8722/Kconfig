@@ -1,0 +1,4 @@
+config TOUCHPANEL_FOCAL_FT8722
+	bool "TP Focal_FT8722 IC enable or not for OPPO"
+	---help---
+	say Y to enable driver for Touchpanel using Focal FT8006S-AA
